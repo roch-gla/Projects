@@ -1,2 +1,3 @@
 # Data Science Projects
-School projects
+
+Here are the reports of some of my data-science academic projects. 
